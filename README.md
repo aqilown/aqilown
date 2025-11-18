@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Aqilla Umara Yusuf</h1>
-<h3 align="center">I am a undergraduate student in Brawijaya University</h3>
+<h3 align="center">I am an undergraduate student in Brawijaya University - Vocational Faculty</h3>
 
 - 📫 How to reach me **aqillaumarayusuf@gmail.com**
 
