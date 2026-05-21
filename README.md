@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhamad Aqilla Umara Yusuf</h1>
-<h3 align="center">I am an undergraduate student in Brawijaya University - Vocational Faculty</h3>
+<h3 align="center">I am an undergraduate student in Brawijaya University - Vocational Faculty - Cybersecurity Enthusiast</h3>
 
-- 📫 How to reach me **aqillaumarayusuf@gmail.com**
+- How to reach me **aqillaumarayusuf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
